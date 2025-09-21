@@ -1,4 +1,4 @@
-module tito
+module github.com/bi0dread/tito
 
 go 1.23
 

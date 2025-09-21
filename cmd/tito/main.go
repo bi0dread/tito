@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"tito"
+	"github.com/bi0dread/tito"
 )
 
 func main() {
